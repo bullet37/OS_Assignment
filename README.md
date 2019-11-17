@@ -1,3 +1,4 @@
 # OS_Assignment
 OS_Assignment
-17363104 
+Dinning philosopher
+Kernel complie
